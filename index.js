@@ -262,6 +262,6 @@ function openWhatsapp()  {
         note;
     }
 
-    window.open("https://wa.me/919005383935?text=" + wTxt);
+    window.open("https://wa.me/917505266931?text=" + wTxt);
   }
 }
